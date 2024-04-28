@@ -55,6 +55,7 @@ public class Fila {
 					System.out.println("O cliente foi chamado! Cliente: " + clienteRemovido);
 					break;
 
+					
 				}
 
 			}
